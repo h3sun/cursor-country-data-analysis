@@ -1,0 +1,218 @@
+Country Name,Population_Rank,GDP_Market_PPP_Rank,Area_Rank,GDP_Per_Capita_Rank,Combined_Score,REGION
+United States,3,2,3,11,853,north-america
+Russian Federation,9,4,1,52,806,euro+central-asia
+Canada,38,15,2,28,789,north-america
+China,2,1,4,82,783,East Asia & Pacific
+Saudi Arabia,47,17,12,24,772,middle-east
+Australia,55,19,6,26,766,East Asia & Pacific
+Germany,19,6,64,20,763,euro+central-asia
+France,21,9,49,31,762,euro+central-asia
+Brazil,7,7,5,91,762,Latin America & Caribbean
+Mexico,10,13,13,83,753,Latin America & Caribbean
+Japan,12,5,63,42,750,East Asia & Pacific
+Turkiye,18,12,36,59,747,euro+central-asia
+Spain,31,16,53,40,732,euro+central-asia
+Italy,25,11,72,33,731,euro+central-asia
+Indonesia,4,8,14,116,730,East Asia & Pacific
+United Kingdom,22,10,79,32,729,euro+central-asia
+Argentina,34,28,8,74,728,Latin America & Caribbean
+India,1,3,7,136,725,south-asia
+"Egypt, Arab Rep.",14,18,29,102,709,middle-east
+"Iran, Islamic Rep.",17,22,17,108,708,middle-east
+Kazakhstan,63,38,9,61,701,euro+central-asia
+Colombia,28,31,25,92,696,Latin America & Caribbean
+Poland,41,20,70,46,695,euro+central-asia
+Thailand,20,21,52,86,693,East Asia & Pacific
+"Korea, Rep.",29,14,109,39,681,East Asia & Pacific
+South Africa,24,32,24,113,679,Sub-Saharan Africa
+Algeria,33,39,10,111,679,middle-east
+Sweden,89,40,50,25,668,euro+central-asia
+Malaysia,44,29,68,65,666,East Asia & Pacific
+Norway,117,48,43,6,658,euro+central-asia
+Chile,64,44,37,70,657,Latin America & Caribbean
+Nigeria,6,26,31,153,656,Sub-Saharan Africa
+Peru,45,47,19,109,652,Latin America & Caribbean
+Pakistan,5,24,35,156,652,middle-east
+Viet Nam,16,25,67,118,646,East Asia & Pacific
+Romania,65,33,82,51,641,euro+central-asia
+Ukraine,36,41,45,110,640,euro+central-asia
+Netherlands,70,27,132,12,631,euro+central-asia
+Philippines,13,30,73,133,623,East Asia & Pacific
+United Arab Emirates,94,37,110,14,617,middle-east
+Iraq,35,45,59,119,614,middle-east
+Bangladesh,8,23,93,139,609,south-asia
+Angola,42,63,22,140,605,Sub-Saharan Africa
+Finland,116,58,66,30,602,euro+central-asia
+Belgium,80,35,137,23,597,euro+central-asia
+Ethiopia,11,56,26,183,596,Sub-Saharan Africa
+Switzerland,100,36,133,8,595,euro+central-asia
+Austria,99,43,117,19,594,euro+central-asia
+Myanmar,27,62,39,157,587,East Asia & Pacific
+Czechia,86,46,118,35,587,euro+central-asia
+Ireland,120,42,121,3,586,euro+central-asia
+Uzbekistan,43,55,57,131,586,euro+central-asia
+Kenya,26,60,48,155,583,Sub-Saharan Africa
+Morocco,40,57,58,135,582,middle-east
+Tanzania,23,68,30,172,579,Sub-Saharan Africa
+Greece,87,54,97,58,576,euro+central-asia
+New Zealand,121,66,75,34,576,East Asia & Pacific
+Portugal,88,51,112,48,573,euro+central-asia
+"Congo, Dem. Rep.",15,81,11,197,568,Sub-Saharan Africa
+Denmark,113,52,131,13,563,euro+central-asia
+Hungary,95,53,111,50,563,euro+central-asia
+Sudan,30,84,15,182,561,Sub-Saharan Africa
+Belarus,97,65,85,72,553,euro+central-asia
+Dominican Republic,83,64,95,80,550,Latin America & Caribbean
+Ecuador,68,67,77,112,548,Latin America & Caribbean
+Bolivia,79,90,27,132,544,Latin America & Caribbean
+Oman,126,76,71,55,544,middle-east
+Israel,96,50,149,37,540,middle-east
+Singapore,115,34,184,2,537,East Asia & Pacific
+Ghana,46,69,81,144,532,Sub-Saharan Africa
+Cote d'Ivoire,50,75,69,147,531,Sub-Saharan Africa
+Libya,105,98,16,126,527,middle-east
+Turkmenistan,104,89,54,99,526,euro+central-asia
+"Hong Kong SAR, China",103,49,177,18,525,East Asia & Pacific
+Bulgaria,110,73,105,64,520,euro+central-asia
+Cameroon,53,85,55,161,518,Sub-Saharan Africa
+Sri Lanka,60,59,123,114,516,south-asia
+Paraguay,107,93,61,105,506,Latin America & Caribbean
+Afghanistan,37,100,40,190,505,middle-east
+Qatar,141,61,161,4,505,middle-east
+Mali,57,107,23,180,505,Sub-Saharan Africa
+Guatemala,67,71,107,124,503,Latin America & Caribbean
+Tunisia,78,78,92,121,503,middle-east
+Azerbaijan,93,74,115,88,502,euro+central-asia
+Mongolia,131,116,18,106,501,East Asia & Pacific
+Slovak Republic,118,72,129,53,500,euro+central-asia
+Zambia,62,103,38,170,499,Sub-Saharan Africa
+Croatia,129,79,114,54,496,euro+central-asia
+Serbia,109,77,116,77,493,euro+central-asia
+Uganda,32,87,80,181,492,Sub-Saharan Africa
+Uruguay,133,94,90,67,488,Latin America & Caribbean
+Kuwait,127,70,154,36,485,middle-east
+Nepal,51,82,94,162,483,south-asia
+Panama,128,80,119,62,483,Latin America & Caribbean
+Lithuania,138,86,124,41,483,euro+central-asia
+Chad,66,123,20,187,476,Sub-Saharan Africa
+Niger,56,129,21,191,475,Sub-Saharan Africa
+Cambodia,72,91,89,145,475,East Asia & Pacific
+Mozambique,48,122,34,195,473,Sub-Saharan Africa
+Syrian Arab Republic,58,96,88,166,464,middle-east
+Madagascar,49,120,46,194,463,Sub-Saharan Africa
+Botswana,144,126,47,95,460,Sub-Saharan Africa
+Costa Rica,123,88,128,79,454,Latin America & Caribbean
+Jordan,82,92,113,134,451,middle-east
+Zimbabwe,73,114,62,173,450,Sub-Saharan Africa
+Senegal,71,102,87,164,448,Sub-Saharan Africa
+Puerto Rico (US),134,83,166,47,442,Latin America & Caribbean
+Slovenia,147,95,151,38,441,euro+central-asia
+Lao PDR,102,109,83,138,440,East Asia & Pacific
+Burkina Faso,59,113,74,189,437,Sub-Saharan Africa
+Guyana,163,139,84,49,437,Latin America & Caribbean
+Guinea,74,115,78,168,437,Sub-Saharan Africa
+Latvia,149,105,125,56,437,euro+central-asia
+Georgia,130,101,122,85,434,euro+central-asia
+Gabon,145,125,76,93,433,Sub-Saharan Africa
+Luxembourg,167,99,174,1,431,euro+central-asia
+Estonia,156,111,130,44,431,euro+central-asia
+Papua New Guinea,91,130,56,165,430,East Asia & Pacific
+Namibia,137,143,33,129,430,Sub-Saharan Africa
+Mauritania,125,142,28,151,426,Sub-Saharan Africa
+Iceland,176,148,108,17,423,euro+central-asia
+Honduras,90,108,103,149,422,Latin America & Caribbean
+Greenland,201,175,60,15,421,euro+central-asia
+Somalia,69,147,42,196,418,Sub-Saharan Africa
+Bahrain,153,97,181,27,414,middle-east
+Bosnia and Herzegovina,135,110,127,89,411,euro+central-asia
+Benin,75,118,102,169,408,Sub-Saharan Africa
+"Congo, Rep.",112,135,65,152,408,Sub-Saharan Africa
+Nicaragua,108,121,98,141,404,Latin America & Caribbean
+Kyrgyz Republic,106,128,86,150,402,euro+central-asia
+Tajikistan,92,127,96,163,394,euro+central-asia
+Brunei Darussalam,173,136,168,9,386,East Asia & Pacific
+Armenia,136,117,139,97,383,euro+central-asia
+Malawi,61,138,101,192,380,Sub-Saharan Africa
+El Salvador,111,106,150,127,378,Latin America & Caribbean
+Albania,140,119,141,96,376,euro+central-asia
+"Macao SAR, China",166,112,213,7,374,East Asia & Pacific
+"Venezuela, RB",52,216,32,203,369,Latin America & Caribbean
+Lebanon,114,104,164,122,368,middle-east
+Suriname,169,155,91,90,367,Latin America & Caribbean
+Cyprus,157,124,165,60,366,euro+central-asia
+North Macedonia,150,132,146,81,363,euro+central-asia
+"Yemen, Rep.",39,217,51,210,355,middle-east
+Trinidad and Tobago,154,131,169,66,352,Latin America & Caribbean
+Moldova,143,134,136,107,352,euro+central-asia
+Central African Republic,122,166,44,198,342,Sub-Saharan Africa
+Rwanda,76,133,145,178,340,Sub-Saharan Africa
+Haiti,81,137,144,176,334,Latin America & Caribbean
+Bermuda,200,164,170,5,333,north-america
+Malta,170,141,199,29,333,middle-east
+Equatorial Guinea,151,144,142,104,331,Sub-Saharan Africa
+Sierra Leone,101,149,120,177,325,Sub-Saharan Africa
+"Bahamas, The",175,153,157,63,324,Latin America & Caribbean
+South Sudan,84,214,41,211,322,Sub-Saharan Africa
+Mauritius,158,140,175,78,321,Sub-Saharan Africa
+Montenegro,168,152,158,75,319,euro+central-asia
+Faroe Islands,202,178,159,16,317,euro+central-asia
+Togo,98,150,126,184,314,Sub-Saharan Africa
+Bhutan,165,158,134,115,300,south-asia
+Liberia,119,160,104,193,296,Sub-Saharan Africa
+Burundi,77,157,143,199,296,Sub-Saharan Africa
+Andorra,197,170,189,21,295,euro+central-asia
+Jamaica,139,145,163,130,295,Latin America & Caribbean
+Cayman Islands,198,168,201,10,295,Latin America & Caribbean
+"Korea, Dem. People's Rep.",54,209,100,217,292,East Asia & Pacific
+Fiji,161,156,153,120,282,East Asia & Pacific
+Cuba,85,203,106,201,277,Latin America & Caribbean
+Eswatini,159,154,155,128,276,Sub-Saharan Africa
+West Bank and Gaza,124,146,167,160,275,middle-east
+Virgin Islands (U.S.),192,172,197,43,268,Latin America & Caribbean
+Belize,174,171,148,125,254,Latin America & Caribbean
+Maldives,172,159,200,87,254,south-asia
+Djibouti,160,163,147,148,254,middle-east
+San Marino,213,182,210,22,245,euro+central-asia
+Aruba,191,176,205,57,243,Latin America & Caribbean
+Curacao,186,174,193,76,243,Latin America & Caribbean
+Seychelles,190,179,192,68,243,Sub-Saharan Africa
+St. Lucia,183,177,186,84,242,Latin America & Caribbean
+Timor-Leste,155,162,156,158,241,East Asia & Pacific
+Lesotho,146,165,138,185,238,Sub-Saharan Africa
+Guinea-Bissau,148,167,135,186,236,Sub-Saharan Africa
+Barbados,179,169,195,94,235,Latin America & Caribbean
+Kosovo,152,151,217,117,235,euro+central-asia
+Antigua and Barbuda,195,181,194,73,229,Latin America & Caribbean
+Eritrea,132,204,99,209,228,Sub-Saharan Africa
+"Gambia, The",142,161,162,179,228,Sub-Saharan Africa
+Turks and Caicos Islands,206,189,179,71,227,Latin America & Caribbean
+Sint Maarten (Dutch part),207,185,212,45,223,Latin America & Caribbean
+Cabo Verde,171,173,171,137,220,Sub-Saharan Africa
+St. Kitts and Nevis,204,187,202,69,210,Latin America & Caribbean
+Grenada,188,184,198,101,201,Latin America & Caribbean
+Dominica,199,191,182,100,200,Latin America & Caribbean
+St. Vincent and the Grenadines,194,186,196,98,198,Latin America & Caribbean
+Solomon Islands,164,183,140,188,197,East Asia & Pacific
+Comoros,162,180,176,171,183,Sub-Saharan Africa
+Samoa,182,188,173,146,183,East Asia & Pacific
+Vanuatu,177,192,160,174,169,East Asia & Pacific
+Sao Tome and Principe,181,190,178,154,169,Sub-Saharan Africa
+Palau,215,196,191,103,167,East Asia & Pacific
+Tonga,193,193,183,142,161,East Asia & Pacific
+"Micronesia, Fed. Sts.",189,194,185,167,137,East Asia & Pacific
+Kiribati,187,195,180,175,135,East Asia & Pacific
+New Caledonia,178,212,152,202,128,East Asia & Pacific
+Nauru,216,198,215,123,120,East Asia & Pacific
+Marshall Islands,208,197,206,143,118,East Asia & Pacific
+French Polynesia,180,205,172,212,103,East Asia & Pacific
+Tuvalu,217,199,214,159,83,East Asia & Pacific
+Guam,185,207,188,213,79,East Asia & Pacific
+Isle of Man,196,208,187,206,75,euro+central-asia
+Channel Islands,184,202,204,208,74,euro+central-asia
+Northern Mariana Islands,205,213,190,204,60,East Asia & Pacific
+American Samoa,203,200,203,207,59,East Asia & Pacific
+British Virgin Islands,211,201,208,205,47,Latin America & Caribbean
+Gibraltar,212,206,216,200,38,euro+central-asia
+Liechtenstein,209,210,207,215,31,euro+central-asia
+Monaco,210,211,209,216,26,euro+central-asia
+St. Martin (French part),214,215,211,214,18,Latin America & Caribbean

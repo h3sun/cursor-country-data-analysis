@@ -1,0 +1,218 @@
+Country Name,Population_Rank,GDP_Market_PPP_Rank,Area_Rank,GDP_Per_Capita_Rank,Combined_Score
+United States,3,2,3,11,853
+Russian Federation,9,4,1,52,806
+Canada,38,15,2,28,789
+China,2,1,4,82,783
+Saudi Arabia,47,17,12,24,772
+Australia,55,19,6,26,766
+Germany,19,6,64,20,763
+France,21,9,49,31,762
+Brazil,7,7,5,91,762
+Mexico,10,13,13,83,753
+Japan,12,5,63,42,750
+Turkiye,18,12,36,59,747
+Spain,31,16,53,40,732
+Italy,25,11,72,33,731
+Indonesia,4,8,14,116,730
+United Kingdom,22,10,79,32,729
+Argentina,34,28,8,74,728
+India,1,3,7,136,725
+"Egypt, Arab Rep.",14,18,29,102,709
+"Iran, Islamic Rep.",17,22,17,108,708
+Kazakhstan,63,38,9,61,701
+Colombia,28,31,25,92,696
+Poland,41,20,70,46,695
+Thailand,20,21,52,86,693
+"Korea, Rep.",29,14,109,39,681
+South Africa,24,32,24,113,679
+Algeria,33,39,10,111,679
+Sweden,89,40,50,25,668
+Malaysia,44,29,68,65,666
+Norway,117,48,43,6,658
+Chile,64,44,37,70,657
+Nigeria,6,26,31,153,656
+Peru,45,47,19,109,652
+Pakistan,5,24,35,156,652
+Viet Nam,16,25,67,118,646
+Romania,65,33,82,51,641
+Ukraine,36,41,45,110,640
+Netherlands,70,27,132,12,631
+Philippines,13,30,73,133,623
+United Arab Emirates,94,37,110,14,617
+Iraq,35,45,59,119,614
+Bangladesh,8,23,93,139,609
+Angola,42,63,22,140,605
+Finland,116,58,66,30,602
+Belgium,80,35,137,23,597
+Ethiopia,11,56,26,183,596
+Switzerland,100,36,133,8,595
+Austria,99,43,117,19,594
+Myanmar,27,62,39,157,587
+Czechia,86,46,118,35,587
+Ireland,120,42,121,3,586
+Uzbekistan,43,55,57,131,586
+Kenya,26,60,48,155,583
+Morocco,40,57,58,135,582
+Tanzania,23,68,30,172,579
+Greece,87,54,97,58,576
+New Zealand,121,66,75,34,576
+Portugal,88,51,112,48,573
+"Congo, Dem. Rep.",15,81,11,197,568
+Denmark,113,52,131,13,563
+Hungary,95,53,111,50,563
+Sudan,30,84,15,182,561
+Belarus,97,65,85,72,553
+Dominican Republic,83,64,95,80,550
+Ecuador,68,67,77,112,548
+Bolivia,79,90,27,132,544
+Oman,126,76,71,55,544
+Israel,96,50,149,37,540
+Singapore,115,34,184,2,537
+Ghana,46,69,81,144,532
+Cote d'Ivoire,50,75,69,147,531
+Libya,105,98,16,126,527
+Turkmenistan,104,89,54,99,526
+"Hong Kong SAR, China",103,49,177,18,525
+Bulgaria,110,73,105,64,520
+Cameroon,53,85,55,161,518
+Sri Lanka,60,59,123,114,516
+Paraguay,107,93,61,105,506
+Afghanistan,37,100,40,190,505
+Qatar,141,61,161,4,505
+Mali,57,107,23,180,505
+Guatemala,67,71,107,124,503
+Tunisia,78,78,92,121,503
+Azerbaijan,93,74,115,88,502
+Mongolia,131,116,18,106,501
+Slovak Republic,118,72,129,53,500
+Zambia,62,103,38,170,499
+Croatia,129,79,114,54,496
+Serbia,109,77,116,77,493
+Uganda,32,87,80,181,492
+Uruguay,133,94,90,67,488
+Kuwait,127,70,154,36,485
+Nepal,51,82,94,162,483
+Panama,128,80,119,62,483
+Lithuania,138,86,124,41,483
+Chad,66,123,20,187,476
+Niger,56,129,21,191,475
+Cambodia,72,91,89,145,475
+Mozambique,48,122,34,195,473
+Syrian Arab Republic,58,96,88,166,464
+Madagascar,49,120,46,194,463
+Botswana,144,126,47,95,460
+Costa Rica,123,88,128,79,454
+Jordan,82,92,113,134,451
+Zimbabwe,73,114,62,173,450
+Senegal,71,102,87,164,448
+Puerto Rico (US),134,83,166,47,442
+Slovenia,147,95,151,38,441
+Lao PDR,102,109,83,138,440
+Burkina Faso,59,113,74,189,437
+Guyana,163,139,84,49,437
+Guinea,74,115,78,168,437
+Latvia,149,105,125,56,437
+Georgia,130,101,122,85,434
+Gabon,145,125,76,93,433
+Luxembourg,167,99,174,1,431
+Estonia,156,111,130,44,431
+Papua New Guinea,91,130,56,165,430
+Namibia,137,143,33,129,430
+Mauritania,125,142,28,151,426
+Iceland,176,148,108,17,423
+Honduras,90,108,103,149,422
+Greenland,201,175,60,15,421
+Somalia,69,147,42,196,418
+Bahrain,153,97,181,27,414
+Bosnia and Herzegovina,135,110,127,89,411
+Benin,75,118,102,169,408
+"Congo, Rep.",112,135,65,152,408
+Nicaragua,108,121,98,141,404
+Kyrgyz Republic,106,128,86,150,402
+Tajikistan,92,127,96,163,394
+Brunei Darussalam,173,136,168,9,386
+Armenia,136,117,139,97,383
+Malawi,61,138,101,192,380
+El Salvador,111,106,150,127,378
+Albania,140,119,141,96,376
+"Macao SAR, China",166,112,213,7,374
+"Venezuela, RB",52,216,32,203,369
+Lebanon,114,104,164,122,368
+Suriname,169,155,91,90,367
+Cyprus,157,124,165,60,366
+North Macedonia,150,132,146,81,363
+"Yemen, Rep.",39,217,51,210,355
+Trinidad and Tobago,154,131,169,66,352
+Moldova,143,134,136,107,352
+Central African Republic,122,166,44,198,342
+Rwanda,76,133,145,178,340
+Haiti,81,137,144,176,334
+Bermuda,200,164,170,5,333
+Malta,170,141,199,29,333
+Equatorial Guinea,151,144,142,104,331
+Sierra Leone,101,149,120,177,325
+"Bahamas, The",175,153,157,63,324
+South Sudan,84,214,41,211,322
+Mauritius,158,140,175,78,321
+Montenegro,168,152,158,75,319
+Faroe Islands,202,178,159,16,317
+Togo,98,150,126,184,314
+Bhutan,165,158,134,115,300
+Liberia,119,160,104,193,296
+Burundi,77,157,143,199,296
+Andorra,197,170,189,21,295
+Jamaica,139,145,163,130,295
+Cayman Islands,198,168,201,10,295
+"Korea, Dem. People's Rep.",54,209,100,217,292
+Fiji,161,156,153,120,282
+Cuba,85,203,106,201,277
+Eswatini,159,154,155,128,276
+West Bank and Gaza,124,146,167,160,275
+Virgin Islands (U.S.),192,172,197,43,268
+Belize,174,171,148,125,254
+Maldives,172,159,200,87,254
+Djibouti,160,163,147,148,254
+San Marino,213,182,210,22,245
+Aruba,191,176,205,57,243
+Curacao,186,174,193,76,243
+Seychelles,190,179,192,68,243
+St. Lucia,183,177,186,84,242
+Timor-Leste,155,162,156,158,241
+Lesotho,146,165,138,185,238
+Guinea-Bissau,148,167,135,186,236
+Barbados,179,169,195,94,235
+Kosovo,152,151,217,117,235
+Antigua and Barbuda,195,181,194,73,229
+Eritrea,132,204,99,209,228
+"Gambia, The",142,161,162,179,228
+Turks and Caicos Islands,206,189,179,71,227
+Sint Maarten (Dutch part),207,185,212,45,223
+Cabo Verde,171,173,171,137,220
+St. Kitts and Nevis,204,187,202,69,210
+Grenada,188,184,198,101,201
+Dominica,199,191,182,100,200
+St. Vincent and the Grenadines,194,186,196,98,198
+Solomon Islands,164,183,140,188,197
+Comoros,162,180,176,171,183
+Samoa,182,188,173,146,183
+Vanuatu,177,192,160,174,169
+Sao Tome and Principe,181,190,178,154,169
+Palau,215,196,191,103,167
+Tonga,193,193,183,142,161
+"Micronesia, Fed. Sts.",189,194,185,167,137
+Kiribati,187,195,180,175,135
+New Caledonia,178,212,152,202,128
+Nauru,216,198,215,123,120
+Marshall Islands,208,197,206,143,118
+French Polynesia,180,205,172,212,103
+Tuvalu,217,199,214,159,83
+Guam,185,207,188,213,79
+Isle of Man,196,208,187,206,75
+Channel Islands,184,202,204,208,74
+Northern Mariana Islands,205,213,190,204,60
+American Samoa,203,200,203,207,59
+British Virgin Islands,211,201,208,205,47
+Gibraltar,212,206,216,200,38
+Liechtenstein,209,210,207,215,31
+Monaco,210,211,209,216,26
+St. Martin (French part),214,215,211,214,18
