@@ -1,0 +1,101 @@
+Country Name,Population_Rank,GDP_Market_PPP_Rank,Area_Rank,GDP_Per_Capita_Rank,Combined_Score,REGION,Overall_Rank,Rank_Within_Region
+China,2,1,4,82,783,East Asia & Pacific,1,1
+Australia,55,19,6,26,766,East Asia & Pacific,2,2
+Japan,12,5,63,42,750,East Asia & Pacific,3,3
+Indonesia,4,8,14,116,730,East Asia & Pacific,4,4
+Thailand,20,21,52,86,693,East Asia & Pacific,5,5
+"Korea, Rep.",29,14,109,39,681,East Asia & Pacific,6,6
+Malaysia,44,29,68,65,666,East Asia & Pacific,7,7
+Viet Nam,16,25,67,118,646,East Asia & Pacific,8,8
+Philippines,13,30,73,133,623,East Asia & Pacific,9,9
+Myanmar,27,62,39,157,587,East Asia & Pacific,10,10
+New Zealand,121,66,75,34,576,East Asia & Pacific,11,11
+Singapore,115,34,184,2,537,East Asia & Pacific,12,12
+"Hong Kong SAR, China",103,49,177,18,525,East Asia & Pacific,13,13
+Mongolia,131,116,18,106,501,East Asia & Pacific,14,14
+Cambodia,72,91,89,145,475,East Asia & Pacific,15,15
+Brazil,7,7,5,91,762,Latin America & Caribbean,16,1
+Mexico,10,13,13,83,753,Latin America & Caribbean,17,2
+Argentina,34,28,8,74,728,Latin America & Caribbean,18,3
+Colombia,28,31,25,92,696,Latin America & Caribbean,19,4
+Chile,64,44,37,70,657,Latin America & Caribbean,20,5
+Peru,45,47,19,109,652,Latin America & Caribbean,21,6
+Dominican Republic,83,64,95,80,550,Latin America & Caribbean,22,7
+Ecuador,68,67,77,112,548,Latin America & Caribbean,23,8
+Bolivia,79,90,27,132,544,Latin America & Caribbean,24,9
+Paraguay,107,93,61,105,506,Latin America & Caribbean,25,10
+Guatemala,67,71,107,124,503,Latin America & Caribbean,26,11
+Uruguay,133,94,90,67,488,Latin America & Caribbean,27,12
+Panama,128,80,119,62,483,Latin America & Caribbean,28,13
+South Africa,24,32,24,113,679,Sub-Saharan Africa,29,1
+Nigeria,6,26,31,153,656,Sub-Saharan Africa,30,2
+Angola,42,63,22,140,605,Sub-Saharan Africa,31,3
+Ethiopia,11,56,26,183,596,Sub-Saharan Africa,32,4
+Kenya,26,60,48,155,583,Sub-Saharan Africa,33,5
+Tanzania,23,68,30,172,579,Sub-Saharan Africa,34,6
+"Congo, Dem. Rep.",15,81,11,197,568,Sub-Saharan Africa,35,7
+Sudan,30,84,15,182,561,Sub-Saharan Africa,36,8
+Ghana,46,69,81,144,532,Sub-Saharan Africa,37,9
+Cote d'Ivoire,50,75,69,147,531,Sub-Saharan Africa,38,10
+Cameroon,53,85,55,161,518,Sub-Saharan Africa,39,11
+Mali,57,107,23,180,505,Sub-Saharan Africa,40,12
+Zambia,62,103,38,170,499,Sub-Saharan Africa,41,13
+Uganda,32,87,80,181,492,Sub-Saharan Africa,42,14
+Chad,66,123,20,187,476,Sub-Saharan Africa,43,15
+Niger,56,129,21,191,475,Sub-Saharan Africa,44,16
+Mozambique,48,122,34,195,473,Sub-Saharan Africa,45,17
+Russian Federation,9,4,1,52,806,euro+central-asia,46,1
+Germany,19,6,64,20,763,euro+central-asia,47,2
+France,21,9,49,31,762,euro+central-asia,48,3
+Turkiye,18,12,36,59,747,euro+central-asia,49,4
+Spain,31,16,53,40,732,euro+central-asia,50,5
+Italy,25,11,72,33,731,euro+central-asia,51,6
+United Kingdom,22,10,79,32,729,euro+central-asia,52,7
+Kazakhstan,63,38,9,61,701,euro+central-asia,53,8
+Poland,41,20,70,46,695,euro+central-asia,54,9
+Sweden,89,40,50,25,668,euro+central-asia,55,10
+Norway,117,48,43,6,658,euro+central-asia,56,11
+Romania,65,33,82,51,641,euro+central-asia,57,12
+Ukraine,36,41,45,110,640,euro+central-asia,58,13
+Netherlands,70,27,132,12,631,euro+central-asia,59,14
+Finland,116,58,66,30,602,euro+central-asia,60,15
+Belgium,80,35,137,23,597,euro+central-asia,61,16
+Switzerland,100,36,133,8,595,euro+central-asia,62,17
+Austria,99,43,117,19,594,euro+central-asia,63,18
+Czechia,86,46,118,35,587,euro+central-asia,64,19
+Ireland,120,42,121,3,586,euro+central-asia,65,20
+Uzbekistan,43,55,57,131,586,euro+central-asia,66,21
+Greece,87,54,97,58,576,euro+central-asia,67,22
+Portugal,88,51,112,48,573,euro+central-asia,68,23
+Denmark,113,52,131,13,563,euro+central-asia,69,24
+Hungary,95,53,111,50,563,euro+central-asia,70,25
+Belarus,97,65,85,72,553,euro+central-asia,71,26
+Turkmenistan,104,89,54,99,526,euro+central-asia,72,27
+Bulgaria,110,73,105,64,520,euro+central-asia,73,28
+Azerbaijan,93,74,115,88,502,euro+central-asia,74,29
+Slovak Republic,118,72,129,53,500,euro+central-asia,75,30
+Croatia,129,79,114,54,496,euro+central-asia,76,31
+Serbia,109,77,116,77,493,euro+central-asia,77,32
+Lithuania,138,86,124,41,483,euro+central-asia,78,33
+Saudi Arabia,47,17,12,24,772,middle-east,79,1
+"Egypt, Arab Rep.",14,18,29,102,709,middle-east,80,2
+"Iran, Islamic Rep.",17,22,17,108,708,middle-east,81,3
+Algeria,33,39,10,111,679,middle-east,82,4
+Pakistan,5,24,35,156,652,middle-east,83,5
+United Arab Emirates,94,37,110,14,617,middle-east,84,6
+Iraq,35,45,59,119,614,middle-east,85,7
+Morocco,40,57,58,135,582,middle-east,86,8
+Oman,126,76,71,55,544,middle-east,87,9
+Israel,96,50,149,37,540,middle-east,88,10
+Libya,105,98,16,126,527,middle-east,89,11
+Qatar,141,61,161,4,505,middle-east,90,12
+Afghanistan,37,100,40,190,505,middle-east,91,13
+Tunisia,78,78,92,121,503,middle-east,92,14
+Kuwait,127,70,154,36,485,middle-east,93,15
+Syrian Arab Republic,58,96,88,166,464,middle-east,94,16
+United States,3,2,3,11,853,north-america,95,1
+Canada,38,15,2,28,789,north-america,96,2
+India,1,3,7,136,725,south-asia,97,1
+Bangladesh,8,23,93,139,609,south-asia,98,2
+Sri Lanka,60,59,123,114,516,south-asia,99,3
+Nepal,51,82,94,162,483,south-asia,100,4

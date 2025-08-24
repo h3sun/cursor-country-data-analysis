@@ -466,3 +466,120 @@ else:
     print("Cannot save table - no data available")
 
 # %%
+
+# %%
+# Create table sorted by region and rank
+print("="*60)
+print("CREATING TABLE SORTED BY REGION AND RANK")
+print("="*60)
+
+def create_region_ranked_table(score_df: pd.DataFrame) -> pd.DataFrame:
+    """
+    Create a table sorted by region and then by combined score rank within each region
+    
+    Args:
+        score_df: The score dataframe with region and rank information
+        
+    Returns:
+        DataFrame sorted by region and rank
+    """
+    # Create a copy to avoid modifying the original
+    region_ranked_df = score_df.copy()
+    
+    # Add overall rank column if not present
+    if 'Overall_Rank' not in region_ranked_df.columns:
+        region_ranked_df['Overall_Rank'] = range(1, len(region_ranked_df) + 1)
+    
+    # Sort by region first, then by combined score (descending) within each region
+    region_ranked_df_sorted = region_ranked_df.sort_values(['REGION', 'Combined_Score'], ascending=[True, False]).reset_index(drop=True)
+    
+    # Add rank within each region
+    region_ranked_df_sorted['Rank_Within_Region'] = region_ranked_df_sorted.groupby('REGION').cumcount() + 1
+    
+    return region_ranked_df_sorted
+
+# Create the region-ranked table
+if 'score_df_with_region' in locals():
+    print("Creating region-ranked table from updated scores with region...")
+    region_ranked_table = create_region_ranked_table(score_df_with_region)
+elif 'score_df_sorted' in locals():
+    print("Creating region-ranked table from original scores (no region data)...")
+    # Add a dummy region column for sorting
+    temp_df = score_df_sorted.copy()
+    temp_df['REGION'] = 'Unknown'
+    region_ranked_table = create_region_ranked_table(temp_df)
+else:
+    print("No score data available. Please run the previous cells first.")
+    region_ranked_table = None
+
+if region_ranked_table is not None:
+    print(f"\nRegion-ranked table created successfully!")
+    print(f"Shape: {region_ranked_table.shape}")
+    print(f"Columns: {list(region_ranked_table.columns)}")
+    
+    # Show the sorted table
+    print(f"\nComplete region-ranked table:")
+    display(region_ranked_table)
+    
+    # Show summary by region
+    print(f"\n" + "="*60)
+    print("SUMMARY BY REGION:")
+    print("="*60)
+    
+    for region in region_ranked_table['REGION'].unique():
+        region_data = region_ranked_table[region_ranked_table['REGION'] == region]
+        print(f"\n📊 {region} ({len(region_data)} countries):")
+        
+        # Show top 3 countries in this region
+        top_countries = region_data.head(3)
+        for _, row in top_countries.iterrows():
+            rank_in_region = row['Rank_Within_Region']
+            overall_rank = row['Overall_Rank']
+            print(f"  {rank_in_region:2d}. {row['Country Name']:<25} Score: {row['Combined_Score']:3d} (Overall Rank: {overall_rank:3d})")
+    
+    # Filter out countries with overall rank > 100
+    print(f"\nFiltering out countries with overall rank > 100...")
+    region_ranked_table_filtered = region_ranked_table[region_ranked_table['Overall_Rank'] <= 100].copy()
+    
+    print(f"Original table: {len(region_ranked_table)} countries")
+    print(f"Filtered table: {len(region_ranked_table_filtered)} countries")
+    print(f"Countries removed: {len(region_ranked_table) - len(region_ranked_table_filtered)}")
+    
+    # Recalculate ranks for the filtered table
+    region_ranked_table_filtered = region_ranked_table_filtered.reset_index(drop=True)
+    region_ranked_table_filtered['Overall_Rank'] = range(1, len(region_ranked_table_filtered) + 1)
+    
+    # Recalculate regional ranks
+    region_ranked_table_filtered['Rank_Within_Region'] = region_ranked_table_filtered.groupby('REGION').cumcount() + 1
+    
+    # Show filtered table summary
+    print(f"\n" + "="*60)
+    print("FILTERED TABLE (TOP 100 COUNTRIES):")
+    print("="*60)
+    
+    for region in region_ranked_table_filtered['REGION'].unique():
+        region_data = region_ranked_table_filtered[region_ranked_table_filtered['REGION'] == region]
+        print(f"\n📊 {region} ({len(region_data)} countries):")
+        
+        # Show top 3 countries in this region
+        top_countries = region_data.head(3)
+        for _, row in top_countries.iterrows():
+            rank_in_region = row['Rank_Within_Region']
+            overall_rank = row['Overall_Rank']
+            print(f"  {rank_in_region:2d}. {row['Country Name']:<25} Score: {row['Combined_Score']:3d} (Overall Rank: {overall_rank:3d})")
+    
+    # Export filtered region-ranked table to CSV
+    output_filename_region = "country_analysis_by_region_and_rank.csv"
+    region_ranked_table_filtered.to_csv(output_filename_region, index=False)
+    
+    print(f"\n" + "="*60)
+    print("FILTERED REGION-RANKED TABLE EXPORTED:")
+    print(f"Filename: {output_filename_region}")
+    print(f"Total countries: {len(region_ranked_table_filtered)}")
+    print(f"Regions: {len(region_ranked_table_filtered['REGION'].unique())}")
+    print("="*60)
+    
+else:
+    print("Could not create region-ranked table")
+
+# %%
